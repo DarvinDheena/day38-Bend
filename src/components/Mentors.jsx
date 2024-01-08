@@ -1,7 +1,6 @@
 import axios from 'axios';
 import React from 'react';
 import Table from 'react-bootstrap/Table';
-import  Button  from 'react-bootstrap/button';
 import config from '../utils/config';
 
 function Mentors({mentors,getAllMentors}) {
